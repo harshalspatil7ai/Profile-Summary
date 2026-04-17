@@ -42,11 +42,7 @@ Here are the key skills I am learning and practicing:
 - Decision Trees, Random Forest, SVM  
 - Neural Networks  
 
-### Deep Learning
-- Artificial Neural Networks (ANN)  
-- Convolutional Neural Networks (CNN)  
-- Recurrent Neural Networks (RNN, LSTM, GRU)  
-- Transformers & Attention Mechanisms  
+  
 
 ##### Statistics & Mathematical Foundations
 
@@ -73,13 +69,15 @@ Here are the key skills I am learning and practicing:
 ---
 
 ## Projects (Work in Progress)
-- Hello World Python scripts  
-- Basic ML experiments
-- - Exploratory Data Analysis on real-world datasets
-- Sales / Business Performance Dashboard
-- Statistical Analysis & Reporting Projects
-- Deep Learning mini-projects  
-- Generative AI / Agentic AI prototypes  
+Sales Data Analysis and Business Insights using Python and Excel/
+Insurance Cost Analysis using Statistical Methods and Python/
+UPI Transaction Data Analysis and Trend Identification using Python/
+Interactive Business Dashboard using Microsoft Excel/
+Advanced Data Visualization Dashboard using Excel/
+Sales Performance Dashboard using Tableau/
+Customer Insights Dashboard using Tableau/
+Jarvis Virtual Assistant using Python (Automation and Voice Commands)/
+AI Chatbot using Python (Natural Language Processing Basics) /
 
 ---
 
