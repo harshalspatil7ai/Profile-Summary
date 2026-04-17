@@ -68,7 +68,7 @@ Here are the key skills I am learning and practicing:
 
 ---
 
-## Projects (Work in Progress)
+## Projects 
 Sales Data Analysis and Business Insights using Python and Excel/
 Insurance Cost Analysis using Statistical Methods and Python/
 UPI Transaction Data Analysis and Trend Identification using Python/
